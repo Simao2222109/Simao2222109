@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Simão Gomes Louré🖐️
 
 
-![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioGomes01&show_icons=true&theme=dracula&count_private=true)
+![Simao GitHub stats](https://github-readme-stats.vercel.app/api?username=Simao2222109&show_icons=true&theme=dracula&count_private=true)
 
  
 
