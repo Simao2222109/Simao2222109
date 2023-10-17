@@ -1,11 +1,5 @@
-## Olá! Eu sou o Flavio Gomes 🖐️
+## Olá! Eu sou o Simão Gomes Louré🖐️
 
- 
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/name)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flaviog777)
-
- 
 
 ![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioGomes01&show_icons=true&theme=dracula&count_private=true)
 
