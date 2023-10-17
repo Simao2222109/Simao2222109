@@ -3,15 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simao2222109" alt="simao2222109" /></a> </p>
 
-- 🔭 I’m currently working on [PureCode.PT](purecode.pt)
+- 🔭 I’m currently working on PureCode
 
 - 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on [Microsoft](microsoft.com)
-
-- 👨‍💻 All of my projects are available at [purecode.pt](purecode.pt)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
